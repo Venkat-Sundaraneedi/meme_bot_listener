@@ -24,5 +24,1235 @@
       "uri": "https://ipfs.io/ipfs/QmYw24G9dKCKdAk6f9qxrLZiJnodNmxtjH8Tsx8LzMVZRt",
       "pool": "pump"
     }
+  },
+  {
+    "timestamp": "2025-02-03T15:45:34.488Z",
+    "tokenInfo": {
+      "message": "Successfully subscribed to token creation events."
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:45:37.438Z",
+    "mintAddress": "EpEJvnqgNyxkHjwjJeFi1d8EuzQfYcNZXrxk5EBApump",
+    "tokenInfo": {
+      "signature": "VYVjA4EsEceHJx3iDKk9Km5mTnaGFLXiJS2QfcLChbYvUVdA9bYqyrPysGWmjrjPhPTaqKgWosRSWiTUMVv2zVv",
+      "mint": "EpEJvnqgNyxkHjwjJeFi1d8EuzQfYcNZXrxk5EBApump",
+      "traderPublicKey": "4RT5eLrB2KfhQKoDmT5hUvnv8rWTt6AMjrbXpJ9V3iQD",
+      "txType": "create",
+      "initialBuy": 34612903.225806,
+      "solAmount": 1,
+      "bondingCurveKey": "shvrnEpvk9tf34TzNwKNnSW3dLpwFbt6ZFgxVZJsCWh",
+      "vTokensInBondingCurve": 1038387096.774194,
+      "vSolInBondingCurve": 30.999999999999986,
+      "marketCapSol": 29.853991922957412,
+      "name": "pgasanus",
+      "symbol": "pgasanus",
+      "uri": "https://ipfs.io/ipfs/QmRk9geoHzHR2YZWfx6AoBw4EbYGhRggpPhjuwM682cLDw",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:45:37.555Z",
+    "mintAddress": "F7ebZb2hXc7ggoEuaQR8eVGtP7Vdc8yWep64B6d3pump",
+    "tokenInfo": {
+      "signature": "e9LF5j7ciqLCM3GsaCX8oYyRNv8vioBfLozFEbFLBpScXtH9XFyALWDekT9ufPWz877jWSWyqXnQ65fg4MjggJw",
+      "mint": "F7ebZb2hXc7ggoEuaQR8eVGtP7Vdc8yWep64B6d3pump",
+      "traderPublicKey": "Ga2EN1MqRoFcKgo2dQc4abe12q5UEyeW34MXUZ1bsmSp",
+      "txType": "create",
+      "initialBuy": 10623762.376237,
+      "solAmount": 0.3,
+      "bondingCurveKey": "Cv3GUzU5Le4Tp3dczXTa2nXaRAHBRhf8TyQAMhV5N7Vi",
+      "vTokensInBondingCurve": 1062376237.623763,
+      "vSolInBondingCurve": 30.299999999999983,
+      "marketCapSol": 28.520969245107143,
+      "name": "Mc America Donald Again",
+      "symbol": "MADA",
+      "uri": "https://ipfs.io/ipfs/QmQShLzNEAacife8bvqHxWFz5cdbApAMYzMAunptPvxy3g",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:45:43.068Z",
+    "mintAddress": "D2Geg1djG1Vu8VHZk4acou7sAiJRQ1vrPcPhiHC8pump",
+    "tokenInfo": {
+      "signature": "3v9S8WyRVTNcKPmjD1mSNi76NWZdA1mfGYEBAwcGiBESUFJJGeKRPGMfSQypALVEWRia2FNtt8Cgzr5nT6pAounX",
+      "mint": "D2Geg1djG1Vu8VHZk4acou7sAiJRQ1vrPcPhiHC8pump",
+      "traderPublicKey": "BKHcnvyB3RBVK4WfdFmVWYfnXwSiL3aGQsJEnWfrHdrt",
+      "txType": "create",
+      "initialBuy": 21039215.686274,
+      "solAmount": 0.6,
+      "bondingCurveKey": "26qm3dE1UuajyeZ2tQjQwZqwVczHVwedV9jHucbw5UkK",
+      "vTokensInBondingCurve": 1051960784.313726,
+      "vSolInBondingCurve": 30.599999999999987,
+      "marketCapSol": 29.088536812674718,
+      "name": "ain't shit 2 smile 'bout",
+      "symbol": "smile",
+      "uri": "https://ipfs.io/ipfs/QmTSEs19Fa5wSzGoegPXrmo3AiN8ZEsxgLXRWk6hMGkej5",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:45:43.403Z",
+    "mintAddress": "FwJ9P2Kx1wkN8i7RnjWVAimuPi9vc5x9jVvPNNZCpump",
+    "tokenInfo": {
+      "signature": "2RbhbG7GroBRSTTtC3sboV8dCwyxMoE3LA8Ti9Cj8UTpXnz5NaN9AhyB77Pr9yoQHekDBRHchjQFsBhECJMcXH3n",
+      "mint": "FwJ9P2Kx1wkN8i7RnjWVAimuPi9vc5x9jVvPNNZCpump",
+      "traderPublicKey": "FFZ5MVSHSCpMt9cHpwBFdqbaHyKzhVy9sY8WecQAygsm",
+      "txType": "create",
+      "initialBuy": 97545454.545454,
+      "solAmount": 3,
+      "bondingCurveKey": "8ef3AEEe7vehLH45NQovX5LggAqVzNyaJjTbV7nSyDPa",
+      "vTokensInBondingCurve": 975454545.454546,
+      "vSolInBondingCurve": 32.999999999999986,
+      "marketCapSol": 33.830382106244144,
+      "name": "titi",
+      "symbol": "titi",
+      "uri": "https://ipfs.io/ipfs/QmNgPAWBzx7fzhZckKZ4t5gqAW4h5UkvLJvSfyyTaHnBdK",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:45:44.053Z",
+    "mintAddress": "75UpCcRXaXyvsNngz7hx1CTRECLpQPEutG4sJQbp9gDG",
+    "tokenInfo": {
+      "signature": "4o2phbZohcNm29EUckMvNwrLT5EsDUTrA9txLcGKJqps4zmHUFout7TcFYa7h3Z6DkY4qkGaTHfoe3TVbvsECjmg",
+      "mint": "75UpCcRXaXyvsNngz7hx1CTRECLpQPEutG4sJQbp9gDG",
+      "traderPublicKey": "FiYwf895W6ntoitNvhVwBLS4uwKZmMhsxiQmYY44488U",
+      "txType": "create",
+      "initialBuy": 0,
+      "solAmount": 0,
+      "bondingCurveKey": "BEaCtDmCVEVpdteGqNKS9ssARDdVboii9eD6tQELXosX",
+      "vTokensInBondingCurve": 1073000000,
+      "vSolInBondingCurve": 30,
+      "marketCapSol": 27.958993476234856,
+      "name": "Official Uber Coin",
+      "symbol": "Uber",
+      "uri": "https://ipfs.io/ipfs/QmX9aVSnBqGsgHHcRfut2ZXWTHTpg93ccJE5UD9FzwWaKN",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:45:44.132Z",
+    "mintAddress": "EtZnpn1TJtYnA1CpiJ6Q823x1Ca8qoxVys3T7WH4pump",
+    "tokenInfo": {
+      "signature": "2YXAixRzViEXm3VaPNTyazkExkfJi63tQaqa7hsWGLm4PNiFdox7qpvtB1o5JrVmkV7UoVC8LEu3uXyKe2f7P8yD",
+      "mint": "EtZnpn1TJtYnA1CpiJ6Q823x1Ca8qoxVys3T7WH4pump",
+      "traderPublicKey": "9uNxiixZpP6t5Yz3mmVEHGHXwEt4GXcU1vUtVVFH84Bn",
+      "txType": "create",
+      "initialBuy": 51501891.627904,
+      "solAmount": 1.51254,
+      "bondingCurveKey": "9F6DAbLig8r7w3hR1bGs6h4ZzcKENGQ13wGTWg2hKuMM",
+      "vTokensInBondingCurve": 1021498108.3720961,
+      "vSolInBondingCurve": 31.512539999999987,
+      "marketCapSol": 30.84933759712952,
+      "name": "ARCH",
+      "symbol": "ARCH",
+      "uri": "https://ipfs.io/ipfs/QmUjaeVD1tQc4yYcdwUwLgsRohMxrhN3FtTZYfPXPajgmx",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:45:44.210Z",
+    "mintAddress": "24Mv2LxFUFLv1LNgEMu9JTS7K5wMPPjDgtBzsTfqgriR",
+    "tokenInfo": {
+      "signature": "21CpWuNFw8swhwyeWNrXoC5G4GPnzkRQhJxTPiWZpDAVkFPDH8SGQCWA7tptg9gEAMj4PwfB6Jmo3iboAGzBJpFN",
+      "mint": "24Mv2LxFUFLv1LNgEMu9JTS7K5wMPPjDgtBzsTfqgriR",
+      "traderPublicKey": "FiYwf895W6ntoitNvhVwBLS4uwKZmMhsxiQmYY44488U",
+      "txType": "create",
+      "initialBuy": 0,
+      "solAmount": 0,
+      "bondingCurveKey": "H6Rvcyjf5CrUYygpATCZRgCqNnzXRkt9gE7uTTV3uagE",
+      "vTokensInBondingCurve": 1073000000,
+      "vSolInBondingCurve": 30,
+      "marketCapSol": 27.958993476234856,
+      "name": "Official Uber Coin",
+      "symbol": "Uber",
+      "uri": "https://ipfs.io/ipfs/QmcjFCThScemaoY6cHxv11MAHZDQDugZgKWNAxGodRiiZR",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:45:44.297Z",
+    "mintAddress": "9bebvvFzDuvJGoDf97YKUVj28Hst4WMrPNQ1WUXpump",
+    "tokenInfo": {
+      "signature": "RNBzYDVQb5ftmsQeh9x64tuvdRj3o4KR7B5LwyVPYTat1AGABHcTF1fYKwL6DDYak579Wu7ardBK8Z6Hpp83eNz",
+      "mint": "9bebvvFzDuvJGoDf97YKUVj28Hst4WMrPNQ1WUXpump",
+      "traderPublicKey": "FbYhwPHuYi75v8R93UkePNDzZSWwgaynhWhDTWjtu8x1",
+      "txType": "create",
+      "initialBuy": 37951768.488745,
+      "solAmount": 1.1,
+      "bondingCurveKey": "HzLqggJ8Tt9sRQ72eWNVGSsD2tq2KWGWZNyeKmjteozt",
+      "vTokensInBondingCurve": 1035048231.511255,
+      "vSolInBondingCurve": 31.09999999999997,
+      "marketCapSol": 30.0469089779434,
+      "name": "Quilled Quicksand",
+      "symbol": "QLQKSD",
+      "uri": "https://ipfs.io/ipfs/QmUMc5p2jkeUPJLXptxG2NHNHqDqTAGCPEs4rzsBkXQmHZ",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:45:53.016Z",
+    "mintAddress": "HCVJuwW4PSB3e1ZXMViWhBYbJhkowjeM4sD6Ate32Ena",
+    "tokenInfo": {
+      "signature": "5qqFfYyjUXn6y9ZcwDco5EE6kwS12Y23xSJf4tCxbQWKQ1iEMfTphFfNVNf8H2UE41XhujPc8dMsfDANdAmeLXX2",
+      "mint": "HCVJuwW4PSB3e1ZXMViWhBYbJhkowjeM4sD6Ate32Ena",
+      "traderPublicKey": "FiYwf895W6ntoitNvhVwBLS4uwKZmMhsxiQmYY44488U",
+      "txType": "create",
+      "initialBuy": 0,
+      "solAmount": 0,
+      "bondingCurveKey": "L5ochd73vv8KKe8a861Kjz5khcHkhcxoBSbsb41ZfN3",
+      "vTokensInBondingCurve": 1073000000,
+      "vSolInBondingCurve": 30,
+      "marketCapSol": 27.958993476234856,
+      "name": "Official Uber Coin",
+      "symbol": "Uber",
+      "uri": "https://ipfs.io/ipfs/QmcjFCThScemaoY6cHxv11MAHZDQDugZgKWNAxGodRiiZR",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:45:53.082Z",
+    "mintAddress": "4ELMqh9N8zbfFEE9X2FzHFRCh8N2KBKCtLFTDrUjz3ZK",
+    "tokenInfo": {
+      "signature": "ZBQf5ppcX6yBCnm47d7Y6sX7D5bPXYTpbhGUq5kFvwnq6cHnsHpqHPqfm5aTjKfkYrnQeUTMp9WGfYHhmz8BGUv",
+      "mint": "4ELMqh9N8zbfFEE9X2FzHFRCh8N2KBKCtLFTDrUjz3ZK",
+      "traderPublicKey": "FiYwf895W6ntoitNvhVwBLS4uwKZmMhsxiQmYY44488U",
+      "txType": "create",
+      "initialBuy": 0,
+      "solAmount": 0,
+      "bondingCurveKey": "GYDaNGJnNRmVfTfGpKvQYuYVsJbRbeaucCGqKg7be7ux",
+      "vTokensInBondingCurve": 1073000000,
+      "vSolInBondingCurve": 30,
+      "marketCapSol": 27.958993476234856,
+      "name": "Official Uber Coin",
+      "symbol": "Uber",
+      "uri": "https://ipfs.io/ipfs/QmcjFCThScemaoY6cHxv11MAHZDQDugZgKWNAxGodRiiZR",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:45:53.398Z",
+    "mintAddress": "81MRFQetC7mfpp4eEyqLpQJp7JV6Re1ZAGrfvEt5wMQH",
+    "tokenInfo": {
+      "signature": "4msmBR1iyUFiyFkoFBafB7BNMiJwAfCigKrjv935iwtXDy6imbayVrDcU7TQjx34r7ZebZ5roMgi2BsjG5M6HSjv",
+      "mint": "81MRFQetC7mfpp4eEyqLpQJp7JV6Re1ZAGrfvEt5wMQH",
+      "traderPublicKey": "FiYwf895W6ntoitNvhVwBLS4uwKZmMhsxiQmYY44488U",
+      "txType": "create",
+      "initialBuy": 0,
+      "solAmount": 0,
+      "bondingCurveKey": "8ZaJRtDgTzFiAiANEcA7CSrxwcXui4F2S3VvognimGrj",
+      "vTokensInBondingCurve": 1073000000,
+      "vSolInBondingCurve": 30,
+      "marketCapSol": 27.958993476234856,
+      "name": "Official Uber Coin",
+      "symbol": "Uber",
+      "uri": "https://ipfs.io/ipfs/QmcjFCThScemaoY6cHxv11MAHZDQDugZgKWNAxGodRiiZR",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:45:53.473Z",
+    "mintAddress": "GMcU7B98FUiXs2zQuVkuBZWVZHSSvXGzTW7NQGYyTiMa",
+    "tokenInfo": {
+      "signature": "3xFy8hDN9aKQy99jWMgX1jkUhpuYx3oRjXH9Swm3FjqQXhQXp4iYT3KGx4QHEag8YwNkCABh5VRvPowPn6FZg7MC",
+      "mint": "GMcU7B98FUiXs2zQuVkuBZWVZHSSvXGzTW7NQGYyTiMa",
+      "traderPublicKey": "FiYwf895W6ntoitNvhVwBLS4uwKZmMhsxiQmYY44488U",
+      "txType": "create",
+      "initialBuy": 0,
+      "solAmount": 0,
+      "bondingCurveKey": "7Z1K6GqYB5ShyTcGLUrdRAB2o338UPsDdCHXwz44pQ1A",
+      "vTokensInBondingCurve": 1073000000,
+      "vSolInBondingCurve": 30,
+      "marketCapSol": 27.958993476234856,
+      "name": "Official Uber Coin",
+      "symbol": "Uber",
+      "uri": "https://ipfs.io/ipfs/QmcjFCThScemaoY6cHxv11MAHZDQDugZgKWNAxGodRiiZR",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:45:57.201Z",
+    "mintAddress": "BvbDba1sg2d8dFPqiL5sZ9e5YPPhRUcSpvNHWwzbpump",
+    "tokenInfo": {
+      "signature": "371BwFb8dgAx87uPKMSKqgv5JKtHzuw3d9rhQeCyfCJaQrBx4t4iJyRFzraH5HMRMo8wmhKtJAHyMf4NG6drCe4d",
+      "mint": "BvbDba1sg2d8dFPqiL5sZ9e5YPPhRUcSpvNHWwzbpump",
+      "traderPublicKey": "FdY6rfzpkzVV6WQ2c5mTtoCjV7gwfPeREF77Hf4WRLHJ",
+      "txType": "create",
+      "initialBuy": 60735849.056603,
+      "solAmount": 1.8,
+      "bondingCurveKey": "55TAZyYPbRxy1sCcE8DVhuxBrMZyEgAVFKrtM8Li8yz1",
+      "vTokensInBondingCurve": 1012264150.943397,
+      "vSolInBondingCurve": 31.799999999999976,
+      "marketCapSol": 31.414725069897433,
+      "name": "MCLovin Сanada dump",
+      "symbol": "MCLovin",
+      "uri": "https://ipfs.io/ipfs/QmSHUaxvGBFJ6MmJMjettyLgQPXAuygcHwr9xKquxPngWb",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:45:57.485Z",
+    "mintAddress": "HJ3fQ3o2Y7X42AJhAewXftQBVfN3i29dopvsxWYeFNST",
+    "tokenInfo": {
+      "signature": "5e4NyG3CtGqbDG1BjxyiUA5bCfX14UrBqbBFxskPbmu18KWceS22n5tL3zMes3PRP6S3XxBxnDuFvsC14iPqKniP",
+      "mint": "HJ3fQ3o2Y7X42AJhAewXftQBVfN3i29dopvsxWYeFNST",
+      "traderPublicKey": "FiYwf895W6ntoitNvhVwBLS4uwKZmMhsxiQmYY44488U",
+      "txType": "create",
+      "initialBuy": 0,
+      "solAmount": 0,
+      "bondingCurveKey": "8rbCGH96De1CQLgfV9xK5GSSNHrHtdzx2JUDH99mXktv",
+      "vTokensInBondingCurve": 1073000000,
+      "vSolInBondingCurve": 30,
+      "marketCapSol": 27.958993476234856,
+      "name": "Official Uber Coin",
+      "symbol": "Uber",
+      "uri": "https://ipfs.io/ipfs/QmcjFCThScemaoY6cHxv11MAHZDQDugZgKWNAxGodRiiZR",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:45:57.564Z",
+    "mintAddress": "3GXbB9YmKprqUh3Andhod4iq3NvG4xHEFtRztSxUzyfS",
+    "tokenInfo": {
+      "signature": "275Rk4X2v8fvZxd5w6BKSs8yy3qmbB5nCxEHmCZGdFyrkzQj6UEQKyKd1Q5xwciFk4kQerw1pMpP2FZdAYKdDD45",
+      "mint": "3GXbB9YmKprqUh3Andhod4iq3NvG4xHEFtRztSxUzyfS",
+      "traderPublicKey": "FiYwf895W6ntoitNvhVwBLS4uwKZmMhsxiQmYY44488U",
+      "txType": "create",
+      "initialBuy": 0,
+      "solAmount": 0,
+      "bondingCurveKey": "3F32LmcX8tvzBMkS7eKB5ut6qwXkP3pEiUsD1Wk3brnE",
+      "vTokensInBondingCurve": 1073000000,
+      "vSolInBondingCurve": 30,
+      "marketCapSol": 27.958993476234856,
+      "name": "Official Uber Coin",
+      "symbol": "Uber",
+      "uri": "https://ipfs.io/ipfs/QmcjFCThScemaoY6cHxv11MAHZDQDugZgKWNAxGodRiiZR",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:45:57.646Z",
+    "mintAddress": "3udfp8ELKtLgMQWLFwZtvTmTMUi53WCCFHvLGbGt1FJr",
+    "tokenInfo": {
+      "signature": "atfBzDg5ipp2cUQEp6qW8oLTATZGGyrvrqkkKVvUpCBUy9PF9ZXVFs9GH9zkGJyj3aPtmcYzrfgGF96dfzddGz7",
+      "mint": "3udfp8ELKtLgMQWLFwZtvTmTMUi53WCCFHvLGbGt1FJr",
+      "traderPublicKey": "FiYwf895W6ntoitNvhVwBLS4uwKZmMhsxiQmYY44488U",
+      "txType": "create",
+      "initialBuy": 0,
+      "solAmount": 0,
+      "bondingCurveKey": "CJ3zY3DmLvmfFZcoZXYqcTWqVSy2CcdfroZtxazhmiRb",
+      "vTokensInBondingCurve": 1073000000,
+      "vSolInBondingCurve": 30,
+      "marketCapSol": 27.958993476234856,
+      "name": "Official Uber Coin",
+      "symbol": "Uber",
+      "uri": "https://ipfs.io/ipfs/QmcjFCThScemaoY6cHxv11MAHZDQDugZgKWNAxGodRiiZR",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:45:57.728Z",
+    "mintAddress": "2ze7jsJVSFyezNGRSyrR35TbXenExHGTcHN4QyUDf15b",
+    "tokenInfo": {
+      "signature": "2c8XPEi5AbStkYvwj99AArpiHBbHZvx9Sw75YU7a76JFnt8e6pK24PEawpLsEhRbJLE3yG3EiAqPkfbeoYPceS1H",
+      "mint": "2ze7jsJVSFyezNGRSyrR35TbXenExHGTcHN4QyUDf15b",
+      "traderPublicKey": "FiYwf895W6ntoitNvhVwBLS4uwKZmMhsxiQmYY44488U",
+      "txType": "create",
+      "initialBuy": 0,
+      "solAmount": 0,
+      "bondingCurveKey": "C9qpxrvtQU4sDHimnMyVZPPkjEUvrzeYCNo44JsRp95Z",
+      "vTokensInBondingCurve": 1073000000,
+      "vSolInBondingCurve": 30,
+      "marketCapSol": 27.958993476234856,
+      "name": "Official Uber Coin",
+      "symbol": "Uber",
+      "uri": "https://ipfs.io/ipfs/QmcjFCThScemaoY6cHxv11MAHZDQDugZgKWNAxGodRiiZR",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:45:57.802Z",
+    "mintAddress": "CV8ZF1ikdosAuUvvx3fLucM47qpopncbRaLXjELvpump",
+    "tokenInfo": {
+      "signature": "25irXCHAU968L1aBGHVE18Gj233iVe3qWGUEdpyW7WfrpvakKtWZpSjhx6EZKzg2eYWderbeVSfGHRG125HYJt4V",
+      "mint": "CV8ZF1ikdosAuUvvx3fLucM47qpopncbRaLXjELvpump",
+      "traderPublicKey": "6YPQ5St7pF6qp2jkGJ6zVccsmDnvpswprSXEyyAmM258",
+      "txType": "create",
+      "initialBuy": 34613103.094673,
+      "solAmount": 1.000005967,
+      "bondingCurveKey": "3PXrEQUswfkqbhQ2Qi1xZWLwENQKCKBFTKKuVepxkmw5",
+      "vTokensInBondingCurve": 1038386896.905327,
+      "vSolInBondingCurve": 31.00000596688468,
+      "marketCapSol": 29.85400341556029,
+      "name": "Dept of Memetic Enlightenment",
+      "symbol": "DOME",
+      "uri": "https://ipfs.io/ipfs/QmUQD5Lj1TURopqZZM5ZCufr6QVZniuN9ZF6Czbb3dKfxC",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:45:57.895Z",
+    "mintAddress": "FkggcHRGM2NJRKPeFPnhVQohDmRGwwGHtM4vQrm5pump",
+    "tokenInfo": {
+      "signature": "47i2bsiZEZ9eU7wEEBQmt8SSX7fcTToyTjh3B5N1fPoo1pNrAfniGmk4MDg6Qi9rHcEk8WL643J6GPpNJmCbQd9F",
+      "mint": "FkggcHRGM2NJRKPeFPnhVQohDmRGwwGHtM4vQrm5pump",
+      "traderPublicKey": "G3kYnvL81hHqR53AA86WXkDiNUBq1MzDCZ9XdeML8ScZ",
+      "txType": "create",
+      "initialBuy": 34612903.225806,
+      "solAmount": 1,
+      "bondingCurveKey": "DehqckzjdCA6wM3YR9us4HUjBZS6ZuD9HwuErC3Hz2d2",
+      "vTokensInBondingCurve": 1038387096.774194,
+      "vSolInBondingCurve": 30.999999999999986,
+      "marketCapSol": 29.853991922957412,
+      "name": "10,000 Mexican Soldiers",
+      "symbol": "Mexico",
+      "uri": "https://ipfs.io/ipfs/QmXtDuW33tN4SZApWXLZWGN7f4K862U22haxaGWiG7ncie",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:45:58.117Z",
+    "mintAddress": "E2jnfdkz3jJ3GvHHTi4HLZn5nFk5GSzWJHhH84ZZ6RqB",
+    "tokenInfo": {
+      "signature": "2QkjVEtBuenHNqHiHHKphGYKaiYTV2WoHKygdTQF4Xfim6inZwa5Z6tQw761H9bP9Ke3PXnZMucXDNUj4n92KMaU",
+      "mint": "E2jnfdkz3jJ3GvHHTi4HLZn5nFk5GSzWJHhH84ZZ6RqB",
+      "traderPublicKey": "FiYwf895W6ntoitNvhVwBLS4uwKZmMhsxiQmYY44488U",
+      "txType": "create",
+      "initialBuy": 0,
+      "solAmount": 0,
+      "bondingCurveKey": "HkC7mQXhs8grJ1RLXWjiQfHdptrfxEE1xjg4hs7byQjv",
+      "vTokensInBondingCurve": 1073000000,
+      "vSolInBondingCurve": 30,
+      "marketCapSol": 27.958993476234856,
+      "name": "Official Uber Coin",
+      "symbol": "Uber",
+      "uri": "https://ipfs.io/ipfs/QmcjFCThScemaoY6cHxv11MAHZDQDugZgKWNAxGodRiiZR",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:46:01.086Z",
+    "mintAddress": "SXiWH9ekksjqVB9spxrqjqJvf74fVt4Rnk9RGv72HE1",
+    "tokenInfo": {
+      "signature": "5xXUGL7LwNvSSTWt6CAyPdHh4KDgS5bEkACCSYbx2CU1desPZEYC8kFPjWC3VWQJgSTaDuh35tnYhgeABeowHrUb",
+      "mint": "SXiWH9ekksjqVB9spxrqjqJvf74fVt4Rnk9RGv72HE1",
+      "traderPublicKey": "FiYwf895W6ntoitNvhVwBLS4uwKZmMhsxiQmYY44488U",
+      "txType": "create",
+      "initialBuy": 0,
+      "solAmount": 0,
+      "bondingCurveKey": "Fm1DWA1K8keNVBWZpP9zD2GY5e41XeF2rqZNQYCZzYjG",
+      "vTokensInBondingCurve": 1073000000,
+      "vSolInBondingCurve": 30,
+      "marketCapSol": 27.958993476234856,
+      "name": "Official Uber Coin",
+      "symbol": "Uber",
+      "uri": "https://ipfs.io/ipfs/QmcjFCThScemaoY6cHxv11MAHZDQDugZgKWNAxGodRiiZR",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:46:01.187Z",
+    "mintAddress": "8vgx9PuP8xVBarJXaGkg8yjsXd8uy2B6jCKTFGWAuMDM",
+    "tokenInfo": {
+      "signature": "2mxFgKvUR1SxVdEbQQQVbnX7or3PPcfDzmBJu2QQpayrLzNuEdkqdXfZem9RMKBByLmMqEFg5urY1L6LZ8t6WySB",
+      "mint": "8vgx9PuP8xVBarJXaGkg8yjsXd8uy2B6jCKTFGWAuMDM",
+      "traderPublicKey": "FiYwf895W6ntoitNvhVwBLS4uwKZmMhsxiQmYY44488U",
+      "txType": "create",
+      "initialBuy": 0,
+      "solAmount": 0,
+      "bondingCurveKey": "6RYfqe9Tr5fPipBpExjBtzNapVcVS8EB3t1THMqi26wR",
+      "vTokensInBondingCurve": 1073000000,
+      "vSolInBondingCurve": 30,
+      "marketCapSol": 27.958993476234856,
+      "name": "Official Uber Coin",
+      "symbol": "Uber",
+      "uri": "https://ipfs.io/ipfs/QmcjFCThScemaoY6cHxv11MAHZDQDugZgKWNAxGodRiiZR",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:46:01.236Z",
+    "mintAddress": "8Zee67t9YQtrNQ2My787iC6Knhs6keWx7M2PWdbyZtNV",
+    "tokenInfo": {
+      "signature": "4TqL7GrQR2Fvz3ABJap4TEP81AbRU1ZrWSBd5CRV84Buny5u77m2D565vpVVCcAvCQUVVxw88652WKfPwNpG94Wt",
+      "mint": "8Zee67t9YQtrNQ2My787iC6Knhs6keWx7M2PWdbyZtNV",
+      "traderPublicKey": "FiYwf895W6ntoitNvhVwBLS4uwKZmMhsxiQmYY44488U",
+      "txType": "create",
+      "initialBuy": 0,
+      "solAmount": 0,
+      "bondingCurveKey": "Dzx3GHAzEkDbXTDYMLNh14v95sSdNfXwfMmuwnjP9v3o",
+      "vTokensInBondingCurve": 1073000000,
+      "vSolInBondingCurve": 30,
+      "marketCapSol": 27.958993476234856,
+      "name": "Official Uber Coin",
+      "symbol": "Uber",
+      "uri": "https://ipfs.io/ipfs/QmcjFCThScemaoY6cHxv11MAHZDQDugZgKWNAxGodRiiZR",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:46:02.529Z",
+    "mintAddress": "HvoGspweqv41QjhqWy29nvqiyJKSEHtySKsDzTH9C9vX",
+    "tokenInfo": {
+      "signature": "4Pki1kpZhvmgrwSZ8ikbaxcfPCK4V9Grh68XH3riax5BjEyRYagKzhffn8Br9vSWxttw5LnNYoc7rq8j4Y2htPML",
+      "mint": "HvoGspweqv41QjhqWy29nvqiyJKSEHtySKsDzTH9C9vX",
+      "traderPublicKey": "FiYwf895W6ntoitNvhVwBLS4uwKZmMhsxiQmYY44488U",
+      "txType": "create",
+      "initialBuy": 0,
+      "solAmount": 0,
+      "bondingCurveKey": "Fzo19bAj64rXaYamTS92DJiSL8FbqbjvmoiEb3strEoT",
+      "vTokensInBondingCurve": 1073000000,
+      "vSolInBondingCurve": 30,
+      "marketCapSol": 27.958993476234856,
+      "name": "Official Uber Coin",
+      "symbol": "Uber",
+      "uri": "https://ipfs.io/ipfs/QmcjFCThScemaoY6cHxv11MAHZDQDugZgKWNAxGodRiiZR",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:49:12.411Z",
+    "tokenInfo": {
+      "message": "Successfully subscribed to token creation events."
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:49:13.018Z",
+    "mintAddress": "HG366cEZy1FmRkZy4LQ1UnW7puRrtAJGVrLCzhgXpump",
+    "tokenInfo": {
+      "signature": "4gY84Xxz8NrssotkEknwMWN5KnN88JzfRjxSpmbzrAaqTNuhuUyCA7f7UNSrteoJnMWvk3XEoBtRvc8tZ3zqeRDA",
+      "mint": "HG366cEZy1FmRkZy4LQ1UnW7puRrtAJGVrLCzhgXpump",
+      "traderPublicKey": "DGYrYcnGArDsYrNiPGJSxRGeVBhiGnneBY4hNsH9PsGA",
+      "txType": "create",
+      "initialBuy": 67062499.999999,
+      "solAmount": 2,
+      "bondingCurveKey": "7dSz2E6ApdVyuUite1VVR6imdzFmUPyhBzJD13suTsDs",
+      "vTokensInBondingCurve": 1005937500.000001,
+      "vSolInBondingCurve": 31.999999999999968,
+      "marketCapSol": 31.811121466293816,
+      "name": "Pre/Tariff",
+      "symbol": "Pre/Tariff",
+      "uri": "https://ipfs.io/ipfs/QmV51sK8rTyjd5Zb4awCatniv579iGcCVYDzrFLrMKx1cn",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:49:13.098Z",
+    "mintAddress": "CJWNcEi8A5XLU2o8zD61n5hcR5bRjTCiK8FZ5wmZpump",
+    "tokenInfo": {
+      "signature": "5id1HV4mBnnBAVYoyrJ1g1gKq6Xq9Xhx9zuhrDV7ThX1Zo6KgCuHj7i47jSiRFZk78NpeeaqwfQSFFiY2hr9iaZN",
+      "mint": "CJWNcEi8A5XLU2o8zD61n5hcR5bRjTCiK8FZ5wmZpump",
+      "traderPublicKey": "CAqvyhxxGddC7peBPQif4Vbx7oxmcGHz843GEcso1GeL",
+      "txType": "create",
+      "initialBuy": 60735849.056603,
+      "solAmount": 1.8,
+      "bondingCurveKey": "CCLxbLcjxdSTYW86dkDJvaAnbRrxq9m1n5THBptrraF9",
+      "vTokensInBondingCurve": 1012264150.943397,
+      "vSolInBondingCurve": 31.799999999999976,
+      "marketCapSol": 31.414725069897433,
+      "name": "Solana Obituary",
+      "symbol": "Obit ",
+      "uri": "https://ipfs.io/ipfs/Qme8ZvLme9LQ122tFQoghVMyRh7EpAFBy8qgovTs7kBgMr",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:49:13.179Z",
+    "mintAddress": "AiuTyZUQW8PLwE4xzaPAaSAaH2n9xqwFBpfgQKbfpump",
+    "tokenInfo": {
+      "signature": "5ZwXs52LYExqekjJ24H31sTK263yARotEcef7vcyyDruJTRNxBhFFNM29PwSfVaZMjWCxcogia4xGHVtfXCr8Fef",
+      "mint": "AiuTyZUQW8PLwE4xzaPAaSAaH2n9xqwFBpfgQKbfpump",
+      "traderPublicKey": "6hPPEBvDgpWiwPRzB3jN7C7YVnHxZG1d3XE4reVaXA3k",
+      "txType": "create",
+      "initialBuy": 41269230.76923,
+      "solAmount": 1.2,
+      "bondingCurveKey": "F33J6BwCfNibJCyLEpW47YDJv2QGqFvWNdYWJbKE7FqL",
+      "vTokensInBondingCurve": 1031730769.23077,
+      "vSolInBondingCurve": 31.199999999999978,
+      "marketCapSol": 30.240447343895575,
+      "name": "Ayran",
+      "symbol": "Ayran",
+      "uri": "https://ipfs.io/ipfs/QmPVZaNFUfJNBQn8XoG127SdYrjyFiTaJvhS1yDmwWKTzc",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:49:15.278Z",
+    "mintAddress": "FWgrYDdtAQeVQpbQGN5p5V5qCneEZGMgiwwjcS4spump",
+    "tokenInfo": {
+      "signature": "2jX8GT3QEmJp4hgwPbqi8RpTJDBoLr8XYXXWSuzHgGgCpXhEyJCTtCSSR5uUtHtuebxrjjk1NtKCkRi313E9DeHr",
+      "mint": "FWgrYDdtAQeVQpbQGN5p5V5qCneEZGMgiwwjcS4spump",
+      "traderPublicKey": "9SrUJ9wdVfvhWYGGW7bMLpcVUGuK9b396hoMTUwgiWEC",
+      "txType": "create",
+      "initialBuy": 67062499.999999,
+      "solAmount": 2,
+      "bondingCurveKey": "DmEVBWXej7iifTu8QVJPBpLP9wq6NVH4W2iv7w5dxdtz",
+      "vTokensInBondingCurve": 1005937500.000001,
+      "vSolInBondingCurve": 31.999999999999968,
+      "marketCapSol": 31.811121466293816,
+      "name": "poo",
+      "symbol": "poo",
+      "uri": "https://ipfs.io/ipfs/QmNimNPKY2wVGXR4JpX2PpcSWAHTUePFo3yQtj9TC2FexU",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:49:17.562Z",
+    "mintAddress": "CdfU1LrNGhfrm4iMpnBYQ9XJ9aCQjBwjTFdCASNnpump",
+    "tokenInfo": {
+      "signature": "2AoBxCYRBGpfKE1rNqe21Px83fn8oWbMZUiRamsq8q9oH65S9jL5GFwiRFkPNKhuETdeBwokQyzSD1B34CYXCv2U",
+      "mint": "CdfU1LrNGhfrm4iMpnBYQ9XJ9aCQjBwjTFdCASNnpump",
+      "traderPublicKey": "95bmcwyEEjgCnBYHorwffAUPXMu3wstC9SPBu9vr4V7z",
+      "txType": "create",
+      "initialBuy": 47121996.303142,
+      "solAmount": 1.378,
+      "bondingCurveKey": "7ZQcx8r4NJDoN6rDeoeUTaUy5eVpoT4nxkcoMiJoYUAc",
+      "vTokensInBondingCurve": 1025878003.696858,
+      "vSolInBondingCurve": 31.37799999999999,
+      "marketCapSol": 30.586482882882862,
+      "name": "KillerGlassAI",
+      "symbol": "KLGL",
+      "uri": "https://ipfs.io/ipfs/QmVZAvitqg5xs24eGCXmDV6A9NctkTNRSchAwXt1soeoBt",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:49:17.647Z",
+    "mintAddress": "ALE9TpZdrxxNxm4BndRNXkSnKWNbiuoh3kJAzFkDpump",
+    "tokenInfo": {
+      "signature": "5b2yuzd9c7uPRpSfR1mF1sui8vJMVdMq1J9zcHD6yQCEy7UBGmt8Hom6XowY1UeLtuGQQsGWTmEBYDobCrujXvJc",
+      "mint": "ALE9TpZdrxxNxm4BndRNXkSnKWNbiuoh3kJAzFkDpump",
+      "traderPublicKey": "HvDRvRRKTAWmCgJamfaycTNbdtLLEhyzM7cYPg5adHnd",
+      "txType": "create",
+      "initialBuy": 34612903.225806,
+      "solAmount": 1,
+      "bondingCurveKey": "7PAjrYERBbcfBdt4fpLTPJpHsGtBx9qTrFowuZsU5Tzc",
+      "vTokensInBondingCurve": 1038387096.774194,
+      "vSolInBondingCurve": 30.999999999999986,
+      "marketCapSol": 29.853991922957412,
+      "name": "first AI painter",
+      "symbol": "AARON",
+      "uri": "https://ipfs.io/ipfs/QmV75jNi4KxajTXPcTHdh3RrBJTxircVDZBQHJMn5gH5eS",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:49:17.728Z",
+    "mintAddress": "6dSiYxMWespvsft7xVm8UAFsEBaNXra8GcQbo5LYpump",
+    "tokenInfo": {
+      "signature": "fbVK5pvx19ZPfLxWGi9ooWNTLK5VPxDSExVzBn2uDpYVhv44E5z1i3V4fjgmXKgoMdNs8iByrhsr36rQxq21aK4",
+      "mint": "6dSiYxMWespvsft7xVm8UAFsEBaNXra8GcQbo5LYpump",
+      "traderPublicKey": "DWS2zCWEveVpfSzPc1mreszUkjrtXS9KGoNMUyT3pexn",
+      "txType": "create",
+      "initialBuy": 57542586.750788,
+      "solAmount": 1.7,
+      "bondingCurveKey": "G1QYcmQh2oa4nvrT54bm46cBoi2c92g9NaYPhYgnTuiC",
+      "vTokensInBondingCurve": 1015457413.249212,
+      "vSolInBondingCurve": 31.699999999999978,
+      "marketCapSol": 31.217458838148453,
+      "name": ":(",
+      "symbol": ":(",
+      "uri": "https://ipfs.io/ipfs/QmfPvnzfQo8bcWaHdjTUa9D4q5Hc9HnYhxnTqpCkwqY3h9",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:49:24.373Z",
+    "mintAddress": "848pVrpY4fCw5NNaL5wbv7xE1AqVUCV8DhGqrcUxpump",
+    "tokenInfo": {
+      "signature": "yi7cEFLd8PX3R17v9XHB7G1bzmweJ8DNPZVzhkx2SPXEyGkdvz929zm32gqhAJn4XSVFWrGYp6EcDLbqbfwJNbR",
+      "mint": "848pVrpY4fCw5NNaL5wbv7xE1AqVUCV8DhGqrcUxpump",
+      "traderPublicKey": "E2XY6yUved7SnEE4be7dJrrfU7iYUDsEZxyeg7wH3Dgc",
+      "txType": "create",
+      "initialBuy": 67062499.999999,
+      "solAmount": 2,
+      "bondingCurveKey": "8CTNwqNxz9hqkZAmaBiAMABHB3JgFMQB59Q3BVzikZd7",
+      "vTokensInBondingCurve": 1005937500.000001,
+      "vSolInBondingCurve": 31.999999999999968,
+      "marketCapSol": 31.811121466293816,
+      "name": "Bipolar Cycle (Real)",
+      "symbol": "BIPOLAR",
+      "uri": "https://ipfs.io/ipfs/QmYJ9L4JvdpYKpiFnR8eDo6wuVCf9EhjaAJ3Eaq2NrfBF2",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:49:24.702Z",
+    "mintAddress": "EcQM24m9jZaYZZBNuSNYcnqYYfg32HfcH9v4u8rPpump",
+    "tokenInfo": {
+      "signature": "2eJ4K2no29YiS49cdmxf6Agg3tCHzrHXDUcsg2r2uAosXpDtwWAgf6kS68zxA3NDp1dZVnAhQwTpk81F2KtrFtCw",
+      "mint": "EcQM24m9jZaYZZBNuSNYcnqYYfg32HfcH9v4u8rPpump",
+      "traderPublicKey": "HWYaPRyVQfuSowPHey6kFyKqoLTC6EwhF8EAYEmgRFMV",
+      "txType": "create",
+      "initialBuy": 67062499.999999,
+      "solAmount": 2,
+      "bondingCurveKey": "5rdpvVspsKXvjUywDL5VQB9GKcf5vCPjXUW98FhmVom3",
+      "vTokensInBondingCurve": 1005937500.000001,
+      "vSolInBondingCurve": 31.999999999999968,
+      "marketCapSol": 31.811121466293816,
+      "name": "souled 🍀",
+      "symbol": "souled",
+      "uri": "https://ipfs.io/ipfs/QmWuqRpVyN1tTQWUS6sqaHNiy3bTMRaVmiDP1SFrQ5rHx4",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:49:24.791Z",
+    "mintAddress": "8ybPMhiMfsrkaHMwKB3aMDZ3FmjU9i9ro3RnGDvEpump",
+    "tokenInfo": {
+      "signature": "62sxwaWWB3AmvHQJ5Cs2CmFGmexdtZkJZrpwv5DT77QFQQNPK6mQcGYyt1CCnC3G5wthraDsVn9ZQBRgZZ7tSL7Z",
+      "mint": "8ybPMhiMfsrkaHMwKB3aMDZ3FmjU9i9ro3RnGDvEpump",
+      "traderPublicKey": "8Bk931BK2r9iFjXAcD8UhmLtYF7tTwowr7XVYASCGGhK",
+      "txType": "create",
+      "initialBuy": 2141716.566866,
+      "solAmount": 0.06,
+      "bondingCurveKey": "BgPJzL2NxVAQbHQE8Wh3D5mkPZWMzJ6qCFutSicyGZFN",
+      "vTokensInBondingCurve": 1070858283.433134,
+      "vSolInBondingCurve": 30.059999999999995,
+      "marketCapSol": 28.07094128611369,
+      "name": "Offical Cheese coin ",
+      "symbol": "chesecoin",
+      "uri": "https://ipfs.io/ipfs/QmYdNM4QDKgzS1EBd3axs6aPDi3T4duuqpns7CqpLxBZeS",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:49:26.888Z",
+    "mintAddress": "JA8ZraifyuCccdWy6NFeaNZkpwgaxKrK9rMsBdU8pump",
+    "tokenInfo": {
+      "signature": "3weZtUomUWC95BeLBnrhoRTHJb8mmi3Pk5qZqHdLJkrAGu3PbFodwToyuXAFWPePn9NSsHtxatyobfapSv4S5gDB",
+      "mint": "JA8ZraifyuCccdWy6NFeaNZkpwgaxKrK9rMsBdU8pump",
+      "traderPublicKey": "6Ke5YmELqSUT5NfqBCcPt8hhj9U2SLLFfsC1yPA6y3K7",
+      "txType": "create",
+      "initialBuy": 51095238.095238,
+      "solAmount": 1.5,
+      "bondingCurveKey": "5NaWVsrYKeCUyUXtQQGuHgbo8nLcTBFJ36UotXF9oLWe",
+      "vTokensInBondingCurve": 1021904761.904762,
+      "vSolInBondingCurve": 31.499999999999996,
+      "marketCapSol": 30.82479030754892,
+      "name": "Official Uber Coin tokyo",
+      "symbol": "Uber",
+      "uri": "https://ipfs.io/ipfs/QmVN7ACv9HySD9zoJFNA95X4Sxd9ovWgA4PBY5Unoyr7DR",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:49:26.969Z",
+    "mintAddress": "H7NH5VdXDSaJ4b9h9ZZX9aNwpz1qSLJWHz92aEMGpump",
+    "tokenInfo": {
+      "signature": "5X2UrfVb9ne2mQX6rUP36RSwgMhPoGyf6PCiNhPtQLFh2x8VnRPsGo4FJJB5Mzg2FSZ1VTgEsukz4DZRT5hRxRRU",
+      "mint": "H7NH5VdXDSaJ4b9h9ZZX9aNwpz1qSLJWHz92aEMGpump",
+      "traderPublicKey": "6mhVLVx6LWienzfP778ccZVQ8DhBtDuaxNRNHg6TAj96",
+      "txType": "create",
+      "initialBuy": 34612903.225806,
+      "solAmount": 1,
+      "bondingCurveKey": "DEq4ab9W5utbmMVr3sjosJSPPHAaFeZ4fZgBMAA1FakR",
+      "vTokensInBondingCurve": 1038387096.774194,
+      "vSolInBondingCurve": 30.999999999999986,
+      "marketCapSol": 29.853991922957412,
+      "name": "we are so back",
+      "symbol": "back",
+      "uri": "https://ipfs.io/ipfs/QmZaRPVz5R4cP6z8Rw9NeyNQMXLSGK2Dcestwf9MkvLMQk",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:49:29.744Z",
+    "mintAddress": "DsG66YwKJFr5jkDfikBxJRWYbE4L7B8g88t85T2WYjXG",
+    "tokenInfo": {
+      "signature": "4LHoaCKV8LQpQYJY8JNN7tF7uXadNPun8w5PoAiGvA8xMrHc1sgxY8S5KUcUx2shqfbCAxQWcGXpseGWaJxpoQVp",
+      "mint": "DsG66YwKJFr5jkDfikBxJRWYbE4L7B8g88t85T2WYjXG",
+      "traderPublicKey": "eDh32VULdEf1VrAz9wNuUy5XamrDqDcF8ijEnoZk4Pu",
+      "txType": "create",
+      "initialBuy": 34612903.225806,
+      "solAmount": 1,
+      "bondingCurveKey": "BvhkTXnRKEfGhDRH67wSotqeVk8FomiGhUJZvr9XWtXT",
+      "vTokensInBondingCurve": 1038387096.774194,
+      "vSolInBondingCurve": 30.999999999999986,
+      "marketCapSol": 29.853991922957412,
+      "name": "Vision Direct AI",
+      "symbol": "VISION",
+      "uri": "https://ipfs.io/ipfs/QmdHjgQFMcGve9D93FUBPoTRQCW3N8TVvAXVcrKNpa8xmn",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:49:29.982Z",
+    "mintAddress": "9HjLjawkzp66aMTpE4ZyejuZuUnkd4TWfb4azpqepump",
+    "tokenInfo": {
+      "signature": "2qkGTgDviAy2LwYV8s3NZHfRBGiPC8jFVTKBGH8a9fgUrFo9GpFyqd24uSVxYF1uF2aC8tNZQ21Gr3fg3eUuWcPr",
+      "mint": "9HjLjawkzp66aMTpE4ZyejuZuUnkd4TWfb4azpqepump",
+      "traderPublicKey": "Aw1Z3uh7SdPahDix7JRWy38LsH9zaciXpcmV64TLtTZi",
+      "txType": "create",
+      "initialBuy": 34612903.225806,
+      "solAmount": 1,
+      "bondingCurveKey": "5L42NSKMR4AnFTka6qCJFG8wuW5NSvtoTmWkMELjSLo8",
+      "vTokensInBondingCurve": 1038387096.774194,
+      "vSolInBondingCurve": 30.999999999999986,
+      "marketCapSol": 29.853991922957412,
+      "name": "Sorentia Labs",
+      "symbol": "SORENTIA",
+      "uri": "https://ipfs.io/ipfs/Qmb2y3jBSthiwWSiuNsrg8raJdcamcdLUQcALJgxs34uq2",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:49:34.583Z",
+    "mintAddress": "LW3cGQfKrnEbUPYwZyUBpDbBB8XWiLqWZnD21Gjpump",
+    "tokenInfo": {
+      "signature": "4a6JhhVa1HWu4h8D4YWBHRDzfF1cvzwsSdtxp33oyGQxcYtkgoHrcNuZbztgVYxgiJXfpg8A9kJtRdJ81rytr3p8",
+      "mint": "LW3cGQfKrnEbUPYwZyUBpDbBB8XWiLqWZnD21Gjpump",
+      "traderPublicKey": "FN2kaWxoUi2T84pzskWgqE8CYHn2FN469wgEX38mzbPs",
+      "txType": "create",
+      "initialBuy": 357547.484171,
+      "solAmount": 0.01,
+      "bondingCurveKey": "3EuaVzBKQ9yz97m6nMaczFw1h1Gz7zpMmfpAXQTHSenK",
+      "vTokensInBondingCurve": 1072642452.515829,
+      "vSolInBondingCurve": 30.009999999999973,
+      "marketCapSol": 27.977635911773792,
+      "name": "McdonaldPePe",
+      "symbol": "McPePe",
+      "uri": "https://ipfs.io/ipfs/QmXeZKhcKPVRZcXhknmnRJbuGCWgtXZ7jvGJs7Y9useqmM",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:49:34.671Z",
+    "mintAddress": "HnHjdWP9RDuLjx22fwDTTmxCBhEUneWxrq7hQnQBpump",
+    "tokenInfo": {
+      "signature": "4SLLAoMMXr6FZ3brR3Q5XmXCGuMwk3SfKMGB3793wC5tbzZjdkfrNXgYcYtN5JAy7SdXAYeyaQrei2MbgayQyZ3Z",
+      "mint": "HnHjdWP9RDuLjx22fwDTTmxCBhEUneWxrq7hQnQBpump",
+      "traderPublicKey": "E3EhbhJtwVu6p5SbfdWuJ2crtq5XmhDo1hwW2oJ3Z6Yo",
+      "txType": "create",
+      "initialBuy": 14118421.052631,
+      "solAmount": 0.4,
+      "bondingCurveKey": "EdttZfJCrB74YBWCSh3vhEeV8CVWabQrLcsJEDe8Vfd1",
+      "vTokensInBondingCurve": 1058881578.947369,
+      "vSolInBondingCurve": 30.399999999999984,
+      "marketCapSol": 28.709537123330197,
+      "name": "Taxozaurus",
+      "symbol": "TAXOZAUR",
+      "uri": "https://ipfs.io/ipfs/QmPWURaFTbTt7zF6YGfjSKU4BRxuFk4W6qWR2EApyMBJM2",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:49:35.401Z",
+    "mintAddress": "6XzGwQB1LZZy38RvXxxAz6iZkB2PWFE1Ej8oQCtwpump",
+    "tokenInfo": {
+      "signature": "48s2r667UutzA5wBumNp9jVc3FCjpZ6kjAwHPHjMPmpZTjZWGKDKGkp8j6ay4SKaqkyEG88JHTc6hHqfxptZXhW1",
+      "mint": "6XzGwQB1LZZy38RvXxxAz6iZkB2PWFE1Ej8oQCtwpump",
+      "traderPublicKey": "FPKKZ4XSExp4CyX1EVfVh3wCYb218WxzAusyDt8AAr1J",
+      "txType": "create",
+      "initialBuy": 357547.484171,
+      "solAmount": 0.01,
+      "bondingCurveKey": "Ckh5f45wRv2FSNt7THoLZeRMMrXB3D9ibDLCcBKSB3DW",
+      "vTokensInBondingCurve": 1072642452.515829,
+      "vSolInBondingCurve": 30.009999999999973,
+      "marketCapSol": 27.977635911773792,
+      "name": "Raven Coin",
+      "symbol": "RAVEN",
+      "uri": "https://ipfs.io/ipfs/QmbQumFCR3fanotRBmzzP6hNmmWRWeajZTpcpUSXg3vafw",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:49:37.623Z",
+    "mintAddress": "AGPqJjhvWjTcs9tEf3TxuPxoppLAb4NksNEWaVhYpump",
+    "tokenInfo": {
+      "signature": "3HMbayNPXovSyoSUF2G1Ji7rPeoEZ1yvki8Uwf4LfbVK1EJFkkF7FXzxPz4fT2SSfrMLjMvQcZwE3Ke9cHjgdY4f",
+      "mint": "AGPqJjhvWjTcs9tEf3TxuPxoppLAb4NksNEWaVhYpump",
+      "traderPublicKey": "7HXaBDpu1HcZSJwpuFLDoY6c1t8PpS7ThCn3C6FaNssz",
+      "txType": "create",
+      "initialBuy": 14118421.052631,
+      "solAmount": 0.4,
+      "bondingCurveKey": "AtbidozvAmy4e5JbHZY7Jrbdh2SCpUfxEP7bMBUJu24S",
+      "vTokensInBondingCurve": 1058881578.947369,
+      "vSolInBondingCurve": 30.399999999999984,
+      "marketCapSol": 28.709537123330197,
+      "name": "Down Horrendously ",
+      "symbol": "DOWN",
+      "uri": "https://ipfs.io/ipfs/QmdNGSckLQJaG5Uda1DTLB5QyNGu67XNZSapW72nMH3HGD",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:49:38.167Z",
+    "mintAddress": "5GMJ9nTWYDAVcpHzWv5yNupDJ17uq1LZ578QnhRWpump",
+    "tokenInfo": {
+      "signature": "2FNPH58ThDVttmDChKVDVsidHHzWFQ5XpQ6eN4prNhz1Bu1asC4C7tCWbR8VKtYyKJjQgJTLahSpQWx68hkaem8C",
+      "mint": "5GMJ9nTWYDAVcpHzWv5yNupDJ17uq1LZ578QnhRWpump",
+      "traderPublicKey": "BE6wZ6wD4ZvhwzvLXUbkk3fEiCWdow8QfNDxh9w6AVVx",
+      "txType": "create",
+      "initialBuy": 17590163.93385,
+      "solAmount": 0.5,
+      "bondingCurveKey": "BZcaChhn9upgQnH42gJyDQPWmtP5Ns7WXiGCcmdkiz4c",
+      "vTokensInBondingCurve": 1055409836.06615,
+      "vSolInBondingCurve": 30.49999999998335,
+      "marketCapSol": 28.898726312487863,
+      "name": "McFlap",
+      "symbol": "MCFLAP",
+      "uri": "https://ipfs.io/ipfs/QmeZ8yR7Gdg4tT5PTM6FPTFPJ8VAgT3JBqh8xsfwqm5G5t",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:49:40.219Z",
+    "mintAddress": "JAXEfynwNRprZKKXKCNr4bonWTj1jYyF7WrziFrfMJav",
+    "tokenInfo": {
+      "signature": "GWZwYuTUzrHX9ncT7B13Y2zAizCazEAAzxXz5uWgEos6aS1JQJH58rpXYrA1me4HLh6Dcv326T6WfLw3i6VhYUr",
+      "mint": "JAXEfynwNRprZKKXKCNr4bonWTj1jYyF7WrziFrfMJav",
+      "traderPublicKey": "2Gko4hUAKfh64kf93E1fsWTQtVABNLWNEbSYUL4Ve2wE",
+      "txType": "create",
+      "initialBuy": 432602.183785,
+      "solAmount": 0.0121,
+      "bondingCurveKey": "5BJnS1y5ArW3mEpVwUiYuz5ZuW5CC1bJwEZc7nECUGwj",
+      "vTokensInBondingCurve": 1072567397.816215,
+      "vSolInBondingCurve": 30.012099999999975,
+      "marketCapSol": 27.981551612612567,
+      "name": "CivetV2 Token",
+      "symbol": "$CTv2",
+      "uri": "https://ipfs.io/ipfs/QmVzvmPt987j2EFSSrfzdpQXz2iPGdromhVjV77aqfnp5d",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:49:40.972Z",
+    "mintAddress": "Cw5xU76ZQsPastXcKJJkbmBcW53eyN8r5T26QaHWpump",
+    "tokenInfo": {
+      "signature": "4DbyLN4jMjPCKRy7zrewyn4fi7155NL5RntyYGd8SQPKrUbYUKmyj4ACL4P6MCtroPzDFFJszFvaFyE8TCW2PKKF",
+      "mint": "Cw5xU76ZQsPastXcKJJkbmBcW53eyN8r5T26QaHWpump",
+      "traderPublicKey": "6ZadhGM81z52ebcb7dfaTBE6dKVyKJpC9nCAT7kePNUt",
+      "txType": "create",
+      "initialBuy": 70196261.682242,
+      "solAmount": 2.1,
+      "bondingCurveKey": "HPjs3BDtXe6hWbWxXHFdL1UxbHhuRMrarWu9ydqFZdZq",
+      "vTokensInBondingCurve": 1002803738.317758,
+      "vSolInBondingCurve": 32.099999999999966,
+      "marketCapSol": 32.01025163094122,
+      "name": "AIDentity",
+      "symbol": "AID",
+      "uri": "https://ipfs.io/ipfs/QmPeu4evNJ8PdxkrZ6v8824cKC57KRK1dqSeKasn95oWMB",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:49:44.613Z",
+    "mintAddress": "AbVTmRU93SGXcKG1zjYhsHc6GUqw2oz8GFik9jErpump",
+    "tokenInfo": {
+      "signature": "3NV9Muwg6LGrBwD6hGMTCK1n2RZkTkmK1ro93aePNBNEmVnhs7ik7XiFo1Q6CKRDVEM17c1dXTXA7wfBUjdEGSSj",
+      "mint": "AbVTmRU93SGXcKG1zjYhsHc6GUqw2oz8GFik9jErpump",
+      "traderPublicKey": "EKQBwXYFJTRi5FAUHdnjXHRKbQKjjq79Xc3WXMcGdLmr",
+      "txType": "create",
+      "initialBuy": 21039215.686274,
+      "solAmount": 0.6,
+      "bondingCurveKey": "57sj47GuoEBaoyqVpXrhfA2mEg6e8DqMuHVY1Qhnhhvp",
+      "vTokensInBondingCurve": 1051960784.313726,
+      "vSolInBondingCurve": 30.599999999999987,
+      "marketCapSol": 29.088536812674718,
+      "name": "Official Kollegah the King",
+      "symbol": "Kollegah",
+      "uri": "https://ipfs.io/ipfs/QmZjL519UWibvRxUrBd2xHPQQc3fdfurcRX82PRMHrbPv7",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:49:44.696Z",
+    "mintAddress": "6UqZcsV4UiVDLQYZ8MAkyHx9AMp2TjCCym7QLP2dpump",
+    "tokenInfo": {
+      "signature": "3EdmyNFEPHFXNseVenWCmq9q4Cs9rcLmWeo3mkHhYBha9CBkp7J73xTeFu37Amo8yXxopioaCiQ4rZCBQVhdHfiX",
+      "mint": "6UqZcsV4UiVDLQYZ8MAkyHx9AMp2TjCCym7QLP2dpump",
+      "traderPublicKey": "9cg8zdpHLpoXaFgPLMGJmik8Vg4kMy4dzveJBCyE9hEd",
+      "txType": "create",
+      "initialBuy": 153285714.285714,
+      "solAmount": 5,
+      "bondingCurveKey": "HbCSQMAcNKDtSnyGhUpzFH6jBhDci5b4EzhdL4PZ6bN",
+      "vTokensInBondingCurve": 919714285.714286,
+      "vSolInBondingCurve": 34.99999999999999,
+      "marketCapSol": 38.05529667598631,
+      "name": "Exploding Kittens",
+      "symbol": "BOOM",
+      "uri": "https://ipfs.io/ipfs/QmQ8ejRuApAwoepsb7NRKFxPMQmMRwzmVKQTUUcBV9dLA3",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:53:07.307Z",
+    "tokenInfo": {
+      "message": "Successfully subscribed to token creation events."
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:53:08.230Z",
+    "mintAddress": "5JrHbounoZVYQhjjcMnHUpBNSxSiDJ8PcZaqBqVcBzER",
+    "tokenInfo": {
+      "signature": "3omhcg1MBJxV6jMPBaXz7meuzNQmk3c8ZNPi3gAg9vt1wvRafzPZeWHScGTMYPsukYPCACek7ExY3KG8fcEqeCfy",
+      "mint": "5JrHbounoZVYQhjjcMnHUpBNSxSiDJ8PcZaqBqVcBzER",
+      "traderPublicKey": "35WDroEZ7Kqwvxsy4XV2hmHBg25dyBUFWTXV8wn6Mm7U",
+      "txType": "create",
+      "initialBuy": 0,
+      "solAmount": 0,
+      "bondingCurveKey": "9guLt9wpRMHRnFfCUo8FfwHinK1oktjEqmwJAuXzJWEz",
+      "vTokensInBondingCurve": 1073000000,
+      "vSolInBondingCurve": 30,
+      "marketCapSol": 27.958993476234856,
+      "name": "Tinder",
+      "symbol": "Tinder",
+      "uri": "https://gateway.pinata.cloud/ipfs/QmVHyKzohYDVMHF82P5nnMQ4h5khXYydsPEJwLeXdT3L78",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:53:08.295Z",
+    "mintAddress": "BAmemMsEzgG1zk8uZTEQSxybMmpCjDrwMgnJzeuLWsaC",
+    "tokenInfo": {
+      "signature": "5D6Ftwpb5QVXNXumo4t8CEycYSgrvVgM8FdacSx8siEVFBDhipSUffqnBhJ9Epodmmuna3xeU6HJShnJz7YJVxeW",
+      "mint": "BAmemMsEzgG1zk8uZTEQSxybMmpCjDrwMgnJzeuLWsaC",
+      "traderPublicKey": "35WDroEZ7Kqwvxsy4XV2hmHBg25dyBUFWTXV8wn6Mm7U",
+      "txType": "create",
+      "initialBuy": 0,
+      "solAmount": 0,
+      "bondingCurveKey": "FzZdwWiq73gRkKPsHdv1gnav7TVbCzAZyBvRj7F7ztrP",
+      "vTokensInBondingCurve": 1073000000,
+      "vSolInBondingCurve": 30,
+      "marketCapSol": 27.958993476234856,
+      "name": "Tinder",
+      "symbol": "Tinder",
+      "uri": "https://gateway.pinata.cloud/ipfs/QmVHyKzohYDVMHF82P5nnMQ4h5khXYydsPEJwLeXdT3L78",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:53:08.369Z",
+    "mintAddress": "8QJVgMXfnLdzVuepypGdvLcEhVbAT8rCneNGeA1bDd2M",
+    "tokenInfo": {
+      "signature": "2M5jkiCw2KpGGHsuaB12ba1YpUxfrXFGZxi7NB3NF4W86eX1jb66WGgdcqQenr8XTofMD7MRsu1oWnqgBLDrBEQR",
+      "mint": "8QJVgMXfnLdzVuepypGdvLcEhVbAT8rCneNGeA1bDd2M",
+      "traderPublicKey": "35WDroEZ7Kqwvxsy4XV2hmHBg25dyBUFWTXV8wn6Mm7U",
+      "txType": "create",
+      "initialBuy": 0,
+      "solAmount": 0,
+      "bondingCurveKey": "4sGv9nDdYY5nWtNdJ33rWMzgVDweyp9uL3FVzBBLmdJn",
+      "vTokensInBondingCurve": 1073000000,
+      "vSolInBondingCurve": 30,
+      "marketCapSol": 27.958993476234856,
+      "name": "Tinder",
+      "symbol": "Tinder",
+      "uri": "https://gateway.pinata.cloud/ipfs/QmVHyKzohYDVMHF82P5nnMQ4h5khXYydsPEJwLeXdT3L78",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:53:08.463Z",
+    "mintAddress": "DSfoVnzgNYmZGwuWfZUytqivQxw3muwDzcA8ZP3Vq4NZ",
+    "tokenInfo": {
+      "signature": "3kJWWAcqoPoaPU8J98x3LGRF5vvQWUg7fpBxeshFaEWntc9Qc46oRVpd53oDDYZ6zBXq2W6EfZq3TDarnXiwfk5W",
+      "mint": "DSfoVnzgNYmZGwuWfZUytqivQxw3muwDzcA8ZP3Vq4NZ",
+      "traderPublicKey": "35WDroEZ7Kqwvxsy4XV2hmHBg25dyBUFWTXV8wn6Mm7U",
+      "txType": "create",
+      "initialBuy": 0,
+      "solAmount": 0,
+      "bondingCurveKey": "8uYTWhESKbsWtqXPd2gqKjHciw84DAnJ5BjGEKZd1E8G",
+      "vTokensInBondingCurve": 1073000000,
+      "vSolInBondingCurve": 30,
+      "marketCapSol": 27.958993476234856,
+      "name": "Tinder",
+      "symbol": "Tinder",
+      "uri": "https://gateway.pinata.cloud/ipfs/QmVHyKzohYDVMHF82P5nnMQ4h5khXYydsPEJwLeXdT3L78",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:53:08.543Z",
+    "mintAddress": "7vuBkodAwD8DyooxHNQdi1QabJzDVKeXPfT3Caynpump",
+    "tokenInfo": {
+      "signature": "2Q7oRwY74jNpq3Ejz8uuiSZinPHYW8W2L6Jv89YTGGd4gSy6V2xnT1DtaSgLPms7qYW3esUcPxd38KPdWkVT18y1",
+      "mint": "7vuBkodAwD8DyooxHNQdi1QabJzDVKeXPfT3Caynpump",
+      "traderPublicKey": "5QiaGxWXvsb5E1MdbLBefy38HLDfVij5247emLPXw1xF",
+      "txType": "create",
+      "initialBuy": 34612903.225806,
+      "solAmount": 1,
+      "bondingCurveKey": "FHcXyq8vPgyJYFZak68jvCqAMZVe3sgmqxgXGBHqQy3i",
+      "vTokensInBondingCurve": 1038387096.774194,
+      "vSolInBondingCurve": 30.999999999999986,
+      "marketCapSol": 29.853991922957412,
+      "name": "1% A day Keeps the Doctor Away",
+      "symbol": "1%",
+      "uri": "https://ipfs.io/ipfs/QmRz5CKtF2kWyZ8a8wnXNpngW7pmRdd42a3oqkAqKBW5Xp",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:53:08.633Z",
+    "mintAddress": "GWg9Jc2RyuG2NiQuyYHAgspifRm7LxqsqDUZPdiGpump",
+    "tokenInfo": {
+      "signature": "4eDw6NfcA5vyFAMu85mBSo4NXhW37PNfiu4Jq1gqnJMoUeBhXqgpTuUmtizSu3qy2RVmQiFZFiLY9TEnAUWJcmqM",
+      "mint": "GWg9Jc2RyuG2NiQuyYHAgspifRm7LxqsqDUZPdiGpump",
+      "traderPublicKey": "6mEjgwwyMhHrYQmJTyh3sCAGjcX4yvXKrkShoPm24DVR",
+      "txType": "create",
+      "initialBuy": 60735849.056603,
+      "solAmount": 1.8,
+      "bondingCurveKey": "GVC5EtftAisY5RzkKbC5JxHKLTxbfvF2LD9Bq4z8esu6",
+      "vTokensInBondingCurve": 1012264150.943397,
+      "vSolInBondingCurve": 31.799999999999976,
+      "marketCapSol": 31.414725069897433,
+      "name": "rojo the jaguar",
+      "symbol": "rojo",
+      "uri": "https://ipfs.io/ipfs/Qmcd9v8a51P58om6qkdEk3xpx38JpLRVsDUaNFvq22Rii3",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:53:08.847Z",
+    "mintAddress": "ADPZV6GMQrniqmvW4K6nG8QW7vHaAebeTVVMWcLcT6PY",
+    "tokenInfo": {
+      "signature": "5xkqkomSAjdEtx6AHZSYsed3bbFL4zxUzXKT7Wy4XHJsUPM3H7KGF3e2h9ZNtEJjuGvK5EpiX5yAqXuFpgLKiY5M",
+      "mint": "ADPZV6GMQrniqmvW4K6nG8QW7vHaAebeTVVMWcLcT6PY",
+      "traderPublicKey": "35WDroEZ7Kqwvxsy4XV2hmHBg25dyBUFWTXV8wn6Mm7U",
+      "txType": "create",
+      "initialBuy": 0,
+      "solAmount": 0,
+      "bondingCurveKey": "5VYyg9kKhSpCQddPgBS8dxuXatgZtyBXxWLyyUZPZxsn",
+      "vTokensInBondingCurve": 1073000000,
+      "vSolInBondingCurve": 30,
+      "marketCapSol": 27.958993476234856,
+      "name": "Tinder",
+      "symbol": "Tinder",
+      "uri": "https://gateway.pinata.cloud/ipfs/QmVHyKzohYDVMHF82P5nnMQ4h5khXYydsPEJwLeXdT3L78",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:53:08.896Z",
+    "mintAddress": "769tiR8y3cpQAWFrYVBCoVaBjHUc2npPUQREVvRwm5Ah",
+    "tokenInfo": {
+      "signature": "zVegr4TEd7VWt4YJH4fB1CnodRjz6p1K9EXnt6NWThw76rXqaYQwu9emYwqgzouZN8VbvvNMqF9H3wo2hCju3Rt",
+      "mint": "769tiR8y3cpQAWFrYVBCoVaBjHUc2npPUQREVvRwm5Ah",
+      "traderPublicKey": "35WDroEZ7Kqwvxsy4XV2hmHBg25dyBUFWTXV8wn6Mm7U",
+      "txType": "create",
+      "initialBuy": 0,
+      "solAmount": 0,
+      "bondingCurveKey": "5X7CTpEWnAoNeazUJraqzUxFmUoD3Pxvqh8Dg1MYavt9",
+      "vTokensInBondingCurve": 1073000000,
+      "vSolInBondingCurve": 30,
+      "marketCapSol": 27.958993476234856,
+      "name": "Tinder",
+      "symbol": "Tinder",
+      "uri": "https://gateway.pinata.cloud/ipfs/QmVHyKzohYDVMHF82P5nnMQ4h5khXYydsPEJwLeXdT3L78",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:54:15.528Z",
+    "tokenInfo": {
+      "message": "Successfully subscribed to token creation events."
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:54:16.014Z",
+    "mintAddress": "8C4ZSJuvfmFVLh9UK3tVhkVANxiNntd2MSY1TNVSpump",
+    "tokenInfo": {
+      "signature": "2ozVmLVV3vJE5xP3Efhwyk1fZTR1oUeApiJXQAYEsGxj4xs543MKKEHs2hsJvphpLGWgtzpcU1ZcxYs1rg2honAT",
+      "mint": "8C4ZSJuvfmFVLh9UK3tVhkVANxiNntd2MSY1TNVSpump",
+      "traderPublicKey": "GTNhE9e5dxC7TjgT6HPpRtEVj1anbTouSSKxkjXJ8QBc",
+      "txType": "create",
+      "initialBuy": 6752898.310698,
+      "solAmount": 0.19,
+      "bondingCurveKey": "DK8EQXWPstVFgL47n369nyjp2EJXHJVGqTCUi6rRu8Wm",
+      "vTokensInBondingCurve": 1066247101.689302,
+      "vSolInBondingCurve": 30.189999999999976,
+      "marketCapSol": 28.314262193227666,
+      "name": "Mcdonalds trolling",
+      "symbol": "MCT",
+      "uri": "https://ipfs.io/ipfs/QmX3vW1h1Ze3YDN5Hq6UpFe8VccPjfpCH7DQicLYqEjsc5",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:55:06.168Z",
+    "tokenInfo": {
+      "message": "Successfully subscribed to token creation events."
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:55:12.444Z",
+    "mintAddress": "H5EWVC8rB5ntwvekNT81VukQM7k913v4sbdrMXNhpump",
+    "tokenInfo": {
+      "signature": "2S41LXo2yQ5fd2XzxntYdyffJRctq1JhBU5DJaUgbuyjvj19vLAr4ew5m65QqLGAZ2BwxefxJUWtpjBkhFJQ85DL",
+      "mint": "H5EWVC8rB5ntwvekNT81VukQM7k913v4sbdrMXNhpump",
+      "traderPublicKey": "Eu1Exz3yfH2dpzD4fTZ2q8KYdV8ijCjCitP5NbACziBi",
+      "txType": "create",
+      "initialBuy": 70196261.682242,
+      "solAmount": 2.1,
+      "bondingCurveKey": "BLyQtBzVqyNaPksVAteMZhT1EjDZjdtvzHYhgmpaVdDw",
+      "vTokensInBondingCurve": 1002803738.317758,
+      "vSolInBondingCurve": 32.099999999999966,
+      "marketCapSol": 32.01025163094122,
+      "name": "Sorentia Labs",
+      "symbol": "SORENTIA",
+      "uri": "https://ipfs.io/ipfs/QmTVe8LcaGpdQZw7JBaVcjDL2p1KvzsxodSSG6vCiFZdMn",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:55:12.515Z",
+    "mintAddress": "Auockay5uRURRzqbkLuTHu9ZteFZHjKFysv38Wtzpump",
+    "tokenInfo": {
+      "signature": "2EUd9S7eoV9oG1YrP68MiyAqaARcwfGk9RjJdPM3FXHVcWAzjzfSTcYhtZXEyTE62jMpyuziJ49NMTTYS7vAHBQx",
+      "mint": "Auockay5uRURRzqbkLuTHu9ZteFZHjKFysv38Wtzpump",
+      "traderPublicKey": "6eLSezE1LL4mD7zPyNyvokyGV1Cyv4BVW4fmE7Vk9o2Y",
+      "txType": "create",
+      "initialBuy": 17590163.934426,
+      "solAmount": 0.5,
+      "bondingCurveKey": "hK92Q8tU5kfqS1Gh5K1nvSUkTUD1WJbsUdfqLTP8bYE",
+      "vTokensInBondingCurve": 1055409836.065574,
+      "vSolInBondingCurve": 30.499999999999993,
+      "marketCapSol": 28.8987263125194,
+      "name": "YE I",
+      "symbol": "YE I",
+      "uri": "https://ipfs.io/ipfs/Qmb5mvn5PvPug8XuoQYC81ax39Bg66fcos37D2kCYJAVbp",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:55:12.595Z",
+    "mintAddress": "5qX8Mb7qdjqQ1At3eBYzgg7waV2tW4PCMb71AvSJpump",
+    "tokenInfo": {
+      "signature": "2WWhw2dDjafdHMrAoeHWDC34cx9SWQK2JdJm9brzwMPxKeszCydEDcSamkUTG9xPR4DGwP39vkmyuSEwz8hSJKY6",
+      "mint": "5qX8Mb7qdjqQ1At3eBYzgg7waV2tW4PCMb71AvSJpump",
+      "traderPublicKey": "Bs5ubsRMVomM1wdWz2j8TtXmNExo8kBXF4hxDrvd6HNF",
+      "txType": "create",
+      "initialBuy": 47840764.33121,
+      "solAmount": 1.4,
+      "bondingCurveKey": "7XEUHEMVpg1SLjANfeMwQXCgfpHz4W5WyswtXWLQXfAR",
+      "vTokensInBondingCurve": 1025159235.66879,
+      "vSolInBondingCurve": 31.399999999999995,
+      "marketCapSol": 30.629388008698342,
+      "name": "1st reversal coin by deepseek",
+      "symbol": "REVERSAL",
+      "uri": "https://ipfs.io/ipfs/QmZrN7pP3p9qL3AE6EqiQGVRECKimw1oweAYATM6YkP1uh",
+      "pool": "pump"
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:55:12.674Z",
+    "mintAddress": "FT8FLzQ9h8HpMHVzEDd9t1ERQLg3zRVb6npaMWa5pump",
+    "tokenInfo": {
+      "signature": "3UVo319L2DHQErouKTU7Fi5u88jdqf6zk5CXjD3A5j6bHDLPhuhxkNdTF4yjWsmvLqdxyKjJ1jaD8SGm3usUktYp",
+      "mint": "FT8FLzQ9h8HpMHVzEDd9t1ERQLg3zRVb6npaMWa5pump",
+      "traderPublicKey": "B8h7oDL9sNiCNWYuVvqYDd69cXkDv2M7dcYwKT58UbtF",
+      "txType": "create",
+      "initialBuy": 96065250.379362,
+      "solAmount": 2.95,
+      "bondingCurveKey": "5QohBcstPSKsMj4p7pAY6NxniVhRA5Pxy1tsLLN8VwSv",
+      "vTokensInBondingCurve": 976934749.620638,
+      "vSolInBondingCurve": 32.949999999999974,
+      "marketCapSol": 33.72794346070203,
+      "name": "My seed phrase",
+      "symbol": "GUESS",
+      "uri": "https://ipfs.io/ipfs/QmUKp32NDdETmydcP4ksPogr6kUpRBFQG94p9d6kKPDstb",
+      "pool": "pump"
+    }
   }
 ]
