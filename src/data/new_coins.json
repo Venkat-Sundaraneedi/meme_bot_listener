@@ -1,2 +1,28 @@
 [
+  {
+    "timestamp": "2025-02-03T15:42:55.542Z",
+    "tokenInfo": {
+      "message": "Successfully subscribed to token creation events."
+    }
+  },
+  {
+    "timestamp": "2025-02-03T15:42:58.439Z",
+    "mintAddress": "AtBTf4ZFXCBct2pnxfbxGq2yNQmxmnmULUh9ESUepump",
+    "tokenInfo": {
+      "signature": "5EXKQ8xjtRVAuMJQ19vDYZAnyb4TrkPXzR2F87mrnWcMgAzJ8op72jwSVvZRTfSY8j9oezujNNgtheK4TYJQ64mH",
+      "mint": "AtBTf4ZFXCBct2pnxfbxGq2yNQmxmnmULUh9ESUepump",
+      "traderPublicKey": "2MNQVqqLmxc2EEN42yVFPNffMMEUr3GpbH1XjhUupoXV",
+      "txType": "create",
+      "initialBuy": 67062499.999999,
+      "solAmount": 2,
+      "bondingCurveKey": "AmARPoRyohPgV3z9UXD5R4jHzVMVpXTuwZScqJ3GYUL",
+      "vTokensInBondingCurve": 1005937500.000001,
+      "vSolInBondingCurve": 31.999999999999968,
+      "marketCapSol": 31.811121466293816,
+      "name": "YODA",
+      "symbol": "YODA",
+      "uri": "https://ipfs.io/ipfs/QmYw24G9dKCKdAk6f9qxrLZiJnodNmxtjH8Tsx8LzMVZRt",
+      "pool": "pump"
+    }
+  }
 ]
