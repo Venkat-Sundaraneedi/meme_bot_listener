@@ -9,11 +9,14 @@ let ws = null;
 let shouldReconnect = true;
 let isShuttingDown = false;
 
-// Helper function to format token data
-function formatTokenData(tokenInfo) {
+// Helper function to format pump token data
+function formatPumpTokenData(tokenInfo) {
 	return `
-    ${chalk.underline.bold(" New Token Alert! ")}
+    ${chalk.underline.bold(" 🎉 New Token Alert! 🎉 ")}
     ===============================================
+    ${chalk.green.bold("Mint Signature:")} ${chalk.cyan(tokenInfo.signature)}
+    ${chalk.green.bold("Trader Public Key:")} ${chalk.cyan(tokenInfo.traderPublicKey)}
+    ${chalk.green.bold("Tx Type:")} ${chalk.cyan(tokenInfo.txType)}
     ${chalk.green.bold("Mint Address:")} ${chalk.cyan(tokenInfo.mint)}
     ${chalk.green.bold("Symbol:")} ${chalk.magenta(tokenInfo.symbol)}
     ${chalk.green.bold("Name:")} ${chalk.yellow(tokenInfo.name)}
@@ -22,9 +25,32 @@ function formatTokenData(tokenInfo) {
     ${chalk.gray("• Initial Buy:")} ${chalk.green(tokenInfo.initialBuy)}
     ${chalk.gray("• SOL Amount:")} ${chalk.green(tokenInfo.solAmount)}
     ${chalk.gray("• Market Cap SOL:")} ${chalk.green(tokenInfo.marketCapSol)}
-    ${chalk.gray("• Pool:")} ${chalk.cyan(tokenInfo.pool)}
+    ${chalk.yellow("Pool:")} ${chalk.cyan(tokenInfo.pool)}
+    ===============================================
+    ${chalk.blue.bold("Bonding Curve Detais:")}
+    ${chalk.gray("• Bonding Curve Key")} ${chalk.green(tokenInfo.bondingCurveKey)}
+    ${chalk.gray("• V Tokens In Bonding Curve")} ${chalk.green(tokenInfo.vTokensInBondingCurve)}
+    ${chalk.gray("• V SOL In Bonding Curve")} ${chalk.green(tokenInfo.vSolInBondingCurve)}
     ===============================================
     ${chalk.yellow.bold("URI:")} ${chalk.blue.underline(tokenInfo.uri)}
+  `;
+}
+
+// Helper function to format Raydium token data
+function formatRaydiumTokenData(tokenInfo) {
+	return `
+    ${chalk.underline.bold(" 🌟 New Raydium Token Alert! 🌟 ")}
+    ===============================================
+    ${chalk.green.bold("Mint Signature:")} ${chalk.cyan(tokenInfo.signature)}
+    ${chalk.green.bold("Mint Address:")} ${chalk.cyan(tokenInfo.mint)}
+    ${chalk.green.bold("Tx Type:")} ${chalk.magenta(tokenInfo.txType)}
+    ${chalk.green.bold("Market ID")} ${chalk.yellow(tokenInfo.marketId)}
+    ===============================================
+    ${chalk.blue.bold("Additional Details:")}
+    ${chalk.gray("• Price:")} ${chalk.green(tokenInfo.price)}
+    ${chalk.gray("• Market Cap SOL:")} ${chalk.green(tokenInfo.marketCapSol)}
+    ${chalk.gray("• Pool:")} ${chalk.cyan(tokenInfo.pool)}
+    ===============================================
   `;
 }
 
@@ -34,33 +60,39 @@ function connectWebSocket() {
 
 	ws.on("open", () => {
 		console.log(chalk.green("✅ Connected to PumpPortal WebSocket!"));
-		ws.send(JSON.stringify({ method: "subscribeNewToken" }));
+		//ws.send(JSON.stringify({ method: "subscribeNewToken" }));
+		ws.send(JSON.stringify({ method: "subscribeRaydiumLiquidity" }));
 	});
 
 	ws.on("message", (data) => {
 		try {
 			const message = JSON.parse(data.toString());
-			const formattedData = formatTokenData(message);
 
-			console.log(chalk.bgGreen(" 🎉 New Token Detected!"));
-			console.log(formattedData);
+			if (message.pool === "pump") {
+				const formattedData = formatPumpTokenData(message);
+				console.log(chalk.bgGreen(" 🎉 New Pump Token Detected! 🎉 "));
+				console.log(formattedData);
+			} else if (message.pool === "raydium") {
+				const formattedData = formatRaydiumTokenData(message);
+				console.log(chalk.bgMagenta(" 🌟 New Raydium Token Detected! 🌟 "));
+				console.log(formattedData);
+			}
 
 			// Create token data object
 			const tokenData = {
 				timestamp: new Date().toISOString(),
-				mintAddress: message.mint,
 				tokenInfo: message,
 			};
 
 			// Store token data
 			storeData(dataPath, tokenData)
 				.then(() => {
-					console.log(
-						chalk.green(
-							" √ Token data stored successfully for ",
-							chalk.cyan(message.mint),
-						),
-					);
+					//console.log(
+					//	chalk.green(
+					//		" √ Token data stored successfully for ",
+					//		chalk.cyan(message.mint),
+					//	),
+					//);
 				})
 				.catch((error) => {
 					console.error(
