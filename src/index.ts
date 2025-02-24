@@ -60,7 +60,7 @@ function connectWebSocket() {
 
 	ws.on("open", () => {
 		console.log(chalk.green("✅ Connected to PumpPortal WebSocket!"));
-		//ws.send(JSON.stringify({ method: "subscribeNewToken" }));
+		ws.send(JSON.stringify({ method: "subscribeNewToken" }));
 		ws.send(JSON.stringify({ method: "subscribeRaydiumLiquidity" }));
 	});
 
@@ -85,24 +85,24 @@ function connectWebSocket() {
 			};
 
 			// Store token data
-			storeData(dataPath, tokenData)
-				.then(() => {
-					//console.log(
-					//	chalk.green(
-					//		" √ Token data stored successfully for ",
-					//		chalk.cyan(message.mint),
-					//	),
-					//);
-				})
-				.catch((error) => {
-					console.error(
-						chalk.red(
-							" × Failed to store token data for ",
-							chalk.cyan(message.mint),
-						),
-					);
-					console.error(chalk.yellow(" Error: "), error.message);
-				});
+			//storeData(dataPath, tokenData)
+			//	.then(() => {
+			//		//console.log(
+			//		//	chalk.green(
+			//		//		" √ Token data stored successfully for ",
+			//		//		chalk.cyan(message.mint),
+			//		//	),
+			//		//);
+			//	})
+			//	.catch((error) => {
+			//		console.error(
+			//			chalk.red(
+			//				" × Failed to store token data for ",
+			//				chalk.cyan(message.mint),
+			//			),
+			//		);
+			//		console.error(chalk.yellow(" Error: "), error.message);
+			//	});
 		} catch (error) {
 			console.error(chalk.red(" × Error processing token event:"));
 			console.error(chalk.yellow(" Error details:"), error.message);
